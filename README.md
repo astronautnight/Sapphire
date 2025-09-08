@@ -1,2 +1,2 @@
 # Sapphire
-Offline notepad, used for html
+A minimal offline notepad for Android built with Kotlin
