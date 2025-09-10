@@ -11,4 +11,4 @@ Supports `.txt`, `.md`, and `.html` files. `.html` files can be opened in the br
 - Preview `.html` files and open in external browser.
 - Fully offline; uses Storage Access Framework (no broad storage permission needed).
 - Save As / New File flow; manual Refresh and auto-refresh on resume.
-- Important *Save file as .html* and then run.
+- Important Save file as *.html* and then run.
